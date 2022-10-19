@@ -1,8 +1,8 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name :JAISON RAPHAEL . V
+Name : KERSOAN P
 
-Roll no :212221230038
+Roll no :212221230050
 
  
 
@@ -216,7 +216,7 @@ int main(void)
 
 ## Result :
 
-Interfaced an LCD with ARM microcontroller is executed and displayed the strings  
+Interfaced an LCD with ARM microcontroller is executed and displayed the strings .
 
  
 
